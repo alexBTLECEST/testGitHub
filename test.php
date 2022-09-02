@@ -1,6 +1,6 @@
 <?php
 
 echo "coucou";
-test
+test 2
 
 ?>
