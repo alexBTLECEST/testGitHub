@@ -2,5 +2,4 @@
 
 echo "coucou";
 
-tets
 ?>
